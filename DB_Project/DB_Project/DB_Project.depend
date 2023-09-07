@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1694040577 source:c:\users\sigma\desktop\db_project\db_project\main.c
+	"SDBAPP.h"
+	<stdio.h>
+
+1694092338 c:\users\sigma\desktop\db_project\db_project\sdbapp.h
+	"SDB.h"
+
+1694096715 c:\users\sigma\desktop\db_project\db_project\sdb.h
+	"STD.h"
+	"UI.h"
+
+1694091610 c:\users\sigma\desktop\db_project\db_project\std.h
+
+1694091621 c:\users\sigma\desktop\db_project\db_project\ui.h
+	<stdio.h>
+	"SDB.h"
+
+1694094756 source:c:\users\sigma\desktop\db_project\db_project\linkedlist.c
+	"LinkedList.h"
+
+1694094736 c:\users\sigma\desktop\db_project\db_project\linkedlist.h
+	<stdlib.h>
+	"SDB.h"
+
+1694097064 source:c:\users\sigma\desktop\db_project\db_project\sdbapp.c
+	"SDBAPP.h"
+	"UI.h"
+
+1694097198 source:c:\users\sigma\desktop\db_project\db_project\ui.c
+	"UI.h"
+
+1694097288 source:c:\users\sigma\desktop\db_project\db_project\sdb.c
+	"SDB.h"
+	"LinkedList.h"
+
